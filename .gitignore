@@ -1,0 +1,3 @@
+# Credenciales locales — nunca commitear
+.streamlit/secrets.toml
+config.json
